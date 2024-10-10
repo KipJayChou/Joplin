@@ -1,6 +1,8 @@
 # Joplin
 安卓笔记软件选择？试试Joplin！
-Follow me in [linux.do](linux.do) @user695 Jay
+
+# Follow me in [linux.do](linux.do) @user695 Jay
+
 ## 文章发布链接：
 ## https://linux.do/t/topic/223447
 先总结这一天，主要就是，**折腾**。
